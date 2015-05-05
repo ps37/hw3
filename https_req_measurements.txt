@@ -1,0 +1,20 @@
+791KB/s   in 0.8s
+745KB/s   in 0.8s
+730KB/s   in 0.8s
+744KB/s   in 0.8s
+744KB/s   in 0.8s
+743KB/s   in 0.8s
+739KB/s   in 0.8s
+741KB/s   in 0.8s
+698KB/s   in 0.9s
+855KB/s   in 0.7s
+ 786KB/s   in 0.8s
+ 785KB/s   in 0.8s
+ 789KB/s   in 0.8s
+ 785KB/s   in 0.8s
+ 797KB/s   in 0.8s
+ 771KB/s   in 0.8s
+ 423KB/s  in 2.1s
+ 772KB/s   in 0.8s
+ 741KB/s   in 0.8s
+ 750KB/s   in 0.8s
